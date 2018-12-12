@@ -1,0 +1,22 @@
+body{
+  background-image: url("computer.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text {
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  color: white;
+}
+.centered {
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+  position:relative;
+  left: 40%;
+  margin-top:5%;
+}
